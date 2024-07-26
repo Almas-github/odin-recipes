@@ -1,0 +1,1 @@
+By the end of this project I should have built a website where you get to lear a few recipes and i should be able to write an html boilerplate with the abillity to give it a language a title in the tab display text in the website images,abs or rel links and lists.
