@@ -1,0 +1,60 @@
+.title {
+    background-color: blue;
+    color: white;
+    font-family: sans-serif, Arial;
+}
+.lasagna {
+    background-color: red;
+    color:yellow;
+}
+.pizza {
+    background-color: yellow;
+    color: red;
+}
+.hamburger {
+    background-color: green;
+    color: brown;
+}
+.lh1 {
+    background-color: red;
+    color: yellow;
+}
+.lh3 {
+    background-color: lightblue;
+    color: yellow;
+}
+.ph1 {
+    background-color: red;
+    color: yellow;
+}
+.ph3 {
+    background-color: red;
+    color: yellow;
+}
+.hh1 {
+    color: brown;
+    background-color: lime;
+}
+.hh3 {
+    color: brown;
+    background-color: lime;
+}
+.ing {
+    background-color: black;
+    color: red;
+    font-weight: 400;
+}
+.steps{
+    background-color: black;
+    color: yellow;
+    font-weight: 400;
+}
+.ping {
+    background-color: yellow;
+    color: red;
+    font-weight: 400;
+}
+.hing {
+    background-color: brown;
+    color: lime;
+}
