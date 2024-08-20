@@ -1,19 +1,37 @@
+body {
+    box-sizing: border-box;
+}
 .title {
     background-color: blue;
     color: white;
     font-family: sans-serif, Arial;
+    text-align: center;
 }
 .lasagna {
     background-color: red;
     color:yellow;
+    font-size: 25px;
+    padding-left: 150px;
+    margin-bottom: 15px;
+    display: block;
 }
 .pizza {
     background-color: yellow;
     color: red;
+    font-size: 25px;
+    padding-left: 150px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: block;
 }
 .hamburger {
     background-color: green;
     color: brown;
+    font-size: 25px;
+    padding-left: 150px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: block;
 }
 .lh1 {
     background-color: red;
